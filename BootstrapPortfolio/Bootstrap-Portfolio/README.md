@@ -1,2 +1,0 @@
-# Bootstrap-Portfolio
-Assignment Two
